@@ -1,0 +1,78 @@
+.goals {
+  padding: 20px;
+}
+
+.form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.form input {
+  padding: 8px;
+}
+
+.form button {
+  background-color: #1e293b;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+}
+
+.goal-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.goal-item {
+  background: #f1f5f9;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.progress-bar {
+  width: 100%;
+  background: #e2e8f0;
+  height: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.progress {
+  height: 10px;
+  background: #22c55e;
+  border-radius: 5px;
+}
+
+.goal-actions {
+  margin-top: 10px;
+}
+
+.goal-actions button {
+  background: #ef4444;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.goal-item input {
+  margin-top: 10px;
+  padding: 6px;
+  width: 100%;
+}
+
+.saving-input {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.saving-input button {
+  background: #22c55e;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  cursor: pointer;
+}

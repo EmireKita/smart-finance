@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1777179707074,
+    "title": "beli kecap dan saus",
+    "amount": "25000",
+    "type": "expense",
+    "category": "bahan baku"
+  },
+  {
+    "id": 1777179750290,
+    "title": "beli kantong plastik",
+    "amount": "20000",
+    "type": "expense",
+    "category": "pelengkap dan packaging"
+  },
+  {
+    "id": 1777179875393,
+    "title": "penjualan bakso bulan ini",
+    "amount": "3000000",
+    "type": "income",
+    "category": "penjualan bakso"
+  },
+  {
+    "id": 1777179946156,
+    "title": "beli gas",
+    "amount": "25000",
+    "type": "expense",
+    "category": "operasional"
+  },
+  {
+    "id": 1777180147844,
+    "title": "beli mie dan tahu",
+    "amount": "50000",
+    "type": "expense",
+    "category": "bahan baku"
+  }
+]
